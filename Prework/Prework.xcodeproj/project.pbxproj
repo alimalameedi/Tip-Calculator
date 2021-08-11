@@ -15,6 +15,7 @@
 		96025CB826C364B600A77A98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96025CB626C364B600A77A98 /* LaunchScreen.storyboard */; };
 		96025CC326C364B600A77A98 /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96025CC226C364B600A77A98 /* PreworkTests.swift */; };
 		96025CCE26C364B600A77A98 /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96025CCD26C364B600A77A98 /* PreworkUITests.swift */; };
+		9697B7AE26C4504A009A12B6 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9697B7AD26C4504A009A12B6 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		96025CC926C364B600A77A98 /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		96025CCD26C364B600A77A98 /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		96025CCF26C364B600A77A98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9697B7AD26C4504A009A12B6 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				96025CAD26C364B500A77A98 /* SceneDelegate.swift */,
 				96025CAF26C364B500A77A98 /* ViewController.swift */,
 				96025CB126C364B500A77A98 /* Main.storyboard */,
+				9697B7AD26C4504A009A12B6 /* SettingsViewController.swift */,
 				96025CB426C364B600A77A98 /* Assets.xcassets */,
 				96025CB626C364B600A77A98 /* LaunchScreen.storyboard */,
 				96025CB926C364B600A77A98 /* Info.plist */,
@@ -261,6 +264,7 @@
 				96025CB026C364B500A77A98 /* ViewController.swift in Sources */,
 				96025CAC26C364B500A77A98 /* AppDelegate.swift in Sources */,
 				96025CAE26C364B500A77A98 /* SceneDelegate.swift in Sources */,
+				9697B7AE26C4504A009A12B6 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
