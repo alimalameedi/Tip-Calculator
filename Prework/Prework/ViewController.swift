@@ -16,7 +16,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var tipControl: UISegmentedControl!
     @IBOutlet weak var totalLabel: UILabel!
     @IBOutlet var imageView: UIImageView!
-    @IBOutlet var label: UILabel!
     
     
     override func viewDidLoad() {
@@ -25,7 +24,6 @@ class ViewController: UIViewController {
         imageView.image = UIImage(named: "Tip_Art")
         imageView.contentMode = .scaleToFill
         // Do any additional setup after loading the view.
-        
         
     }
     

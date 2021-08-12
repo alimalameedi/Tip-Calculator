@@ -22,7 +22,10 @@
 
  The following **additional** features are implemented:
 
- - [ ] List anything else that you can get done to improve the app functionality!
+ - [X] Added Settings screen
+ - [X] Included a slider for changing tip percentage (haven't linked it yet)
+ - [X] Added a little image at the bottom for UI (I want to make the UI nicer though)
+
 
  ## Video Walkthrough
 
